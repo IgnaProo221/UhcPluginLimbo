@@ -1,0 +1,4 @@
+name: UhcPlugin
+version: '${project.version}'
+main: net.ignaproo.uhcplugin.main
+api-version: '1.17'
